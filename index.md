@@ -1,4 +1,10 @@
 
+## Dear_Chloe
+There are places we can go with this theme... According to Channeleing [BuroDestruct](https://burodestruct.net/) has taken me into their design guild. Check out the [WebFonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) on [GoogleFonts](https://fonts.google.com/) so you can choose some [LOGO/DiSPLAY_TEXT](https://www.zekagraphic.com/font-psychology-in-graphic-design/) for your header. [AWWWARDS](https://www.awwwards.com/) got amazing example award winning websites for a star like you. Check out [TYPEDiFFERENT](https://www.typedifferent.com/), lots of font and design inspiration for fan gear and all that shit. You ah DigiTal_Diva and you need a genuine high tech look that represents your household energy... Im Wally
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/chloe/master/assets/images/pngegg.png">
+<img src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/bubblegumpop_thaka_and_Sartus_pet.PNG">
+<img src="https://raw.githubusercontent.com/ThakaSartu/coral/master/assets/images/video/bubblegumpop_thaka_and_Sartus_pet2.PNG">
+<hr>
 <hr>
 
 [Film Noir](https://www.filmnoirfoundation.org/)
