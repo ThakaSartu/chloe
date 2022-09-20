@@ -1,3 +1,12 @@
+
+## Greetings_Chloe
+I checked out your cover spread from Essance... You look amazing... 
+
+<hr>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/yhCuCqJbOVE" title="ＣＹＢＥＲ　ＤＲＥＡＭ [Chillwave - Synthwave Mix]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/63097121&color=%23b76e76&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 30px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/sets/tycho-awake-deluxe-version" title="Tycho - Awake (Deluxe Version)" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho - Awake </a></div>
+<hr>
 ---
 layout: default
 ---
